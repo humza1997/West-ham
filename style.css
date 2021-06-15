@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: none;
+    padding: none;
+  }
+  ​
+  h1,
+  footer {
+    margin: 61px;
+    text-align: center;
+    color: #7a263a;
+  }
+  ​
+  table {
+    margin: auto;
+    border: 2px solid grey;
+    height: 200px;
+    width: 700px;
+  }
+  ​
+  tr {
+    line-height: 2em;
+  }
+  ​
+  table td,
+  th {
+    border: 2px solid #f3d459;
+    padding: 5px;
+    color: #7a263a;
+  }
+  ​
+  table th {
+    font-size: 1.2em;
+    background: #1bb1e7;
+  }
+  ​
+  footer:hover {
+    font-size: 2em;
+  }
+  ​
+  footer a {
+    font-size: 1.3em;
+    text-decoration: none;
+    color: #1bb1e7;
+  }
